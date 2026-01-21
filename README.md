@@ -11,19 +11,6 @@ understanding demand patterns using EDA
 
 estimating future demand using basic time-series techniques
 
-📁 Project Structure
-Retail_Inventory_Forecasting/
-│
-├── data/
-│   └── walmart_sales.csv
-│
-├── notebooks/
-│   └── Walmart sales forecast.ipynb
-│
-├── reports/
-│
-└── README.md
-
 📊 Dataset Description
 
 🏬 Walmart weekly sales dataset
@@ -107,5 +94,6 @@ Gained insights into demand patterns useful for inventory and operational planni
 This project demonstrates an end-to-end retail analytics workflow, combining data cleaning, aggregation, exploratory analysis, and basic forecasting. It highlights how structured data preparation and EDA play a critical role in effective inventory forecasting and business decision-making.
 
 ✍️ Author
+
 
 Niveditha
